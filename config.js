@@ -38,29 +38,29 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
+['6289516947204', 'AbiDev', true],
+['6289516947204', 'AbiDev', true],
+['6289516947204', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '6289516947204'
+global.nomorown = '6289516947204'
+global.nomorown1 = '6289516947204'
+global.nomorown2 = '6289516947204'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝘼𝙗𝙞𝘿𝙚𝙫 X 𝙭𝙧𝙗𝙤𝙩'
+global.author = '𝘼𝙗𝙞𝘿𝙚𝙫 X 𝐀𝐈𝐑𝐀'
 global.namebot = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐀𝐈𝐑𝐀 𝗺𝗱'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
+global.wm = '𝐀𝐈𝐑𝐀 𝗺𝗱 '
 global.watermark = wm
-global.wm2 = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
+global.wm2 = '𝐀𝐈𝐑𝐀 𝗺𝗱 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝘼𝙗𝙞𝘿𝙚𝙫 𝐗 𝙭𝙧𝙗𝙤𝙩`
@@ -84,11 +84,11 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/--'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '088232154376'
+global.pdana = '089516947204'
 global.povo = '-'
-global.pgopay = '088232154376'
+global.pgopay = '089516947204'
 global.plinkaja = '-' //link aja
-global.ppulsa = '088232154376'
+global.ppulsa = '089516947204'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
